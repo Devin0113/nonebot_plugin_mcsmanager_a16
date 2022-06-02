@@ -1,0 +1,52 @@
+{
+    "superusers": [
+        "1145141919"
+    ],
+    "priority": 10,
+    "api_config": {
+        "apikey": "xxxxxxxxxxxxxxxxxxxxxxx",
+        "url": "https://example.com:1145",
+        "headers": {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.53",
+            "Content-Type": "application/json; charset=utf-8"
+        }
+    },
+    "groups": [
+        {
+            "group_id": "1145141919",
+            "group_config": {
+                "msgforward": 0,
+                "uuid": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                "instanceUuid": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+            }
+        }
+    ],
+    "remote_services": [
+        {
+            "uuid": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "instances": []
+        },
+        {
+            "uuid": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "instances": [
+                {
+                    "instanceUuid": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                    "config": {
+                        "nickname": "example1"
+                    }
+                }
+            ]
+        },
+        {
+            "uuid": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "instances": [
+                {
+                    "instanceUuid": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                    "config": {
+                        "nickname": "example2"
+                    }
+                }
+            ]
+        }
+    ]
+}
