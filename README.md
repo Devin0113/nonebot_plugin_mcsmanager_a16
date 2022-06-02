@@ -57,6 +57,6 @@ pip install json
 （话说README该怎么添加图片来着，是引用库的图片吗，想加一条测试的截图）
 
 ## 相关仓库
-- [NoneBot2]([https://github.com/nonebot](https://github.com/nonebot/nonebot2))
+- [NoneBot2](https://github.com/nonebot/nonebot2)
 - [APScheduler定时任务插件](https://github.com/nonebot/plugin-apscheduler)
 - [MCSManager](https://github.com/MCSManager/MCSManager)
