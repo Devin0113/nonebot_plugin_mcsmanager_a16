@@ -3,11 +3,10 @@ A nonebot2 a16 plugin for mc server based on mcsmanager.
 
 一个适用于基于mcsmanager的mc服务器的Nonebot2插件，适配nonebot2 a16
 
-是的 下面的版本肯定没有问题：
+是的，如果你也使用的是下面的版本那么肯定没有问题（心虚）：
 
-NoneBot2 a16
-
-MCSManager 9.4.4
+- NoneBot2 a16
+- MCSManager 9.4.4
 
 ## 目录
 
