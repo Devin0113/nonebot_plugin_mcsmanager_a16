@@ -59,17 +59,31 @@ pip install json
 
 （话说README该怎么添加图片来着，是引用库的图片吗，想加一条测试的截图）
 
+获取指令列表：
+
 ![mchelp](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/01help.jpg)
+
+向服务器发送讯息：
 
 ![mcsay](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/02say.jpg)
 
+向服务器发送其他指令：
+
 ![mccmd](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/03cmd.jpg)
+
+接收服务器信息开关：
 
 ![mcmsg](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/04msg.jpg)
 
+服务器列表：
+
 ![mcs](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/05s.jpg)
 
+群聊绑定服务器（一个群聊仅允许绑定一个服务器）：
+
 ![mcbind](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/06bind.jpg)
+
+超级用户：
 
 ![mcsu](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/07su.jpg)
 
