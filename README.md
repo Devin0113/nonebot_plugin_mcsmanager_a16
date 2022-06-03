@@ -55,6 +55,12 @@ pip install json
 ## 使用说明
 初次使用请在Config/config.json里手动填入superuser（你的qq号）、apikey（就是root账号生成的API密钥（控制面板->个人信息->生成API密钥））、url（你的mcsmanager服务器地址）
 
+- 至于怎么生成apikey：
+
+![api1](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/api1.jpg)
+
+![api2](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/api2.jpg)
+
 其他东西应该都可以在群里输指令完成配置
 
 在群聊中输入“mchelp”来获取指令列表
