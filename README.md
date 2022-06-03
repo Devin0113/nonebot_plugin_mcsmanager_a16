@@ -29,6 +29,7 @@ A nonebot2 a16 plugin for mc server based on mcsmanager.
 不过真的会有人用吗，要不我还是继续用a16摆烂，不继续适配nonebot2beta版了（）
 
 > 写完README又手痒去搜索了一下，原来其实还是有大佬写了，只是当初我眼瞎没看到（）
+
 > 挖，原来还能给自己点star（）
 
 
