@@ -57,9 +57,9 @@ pip install json
 
 - 至于怎么生成apikey：
 
-![api1](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/api1.jpg)
+![api1](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/api1.png)
 
-![api2](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/api2.jpg)
+![api2](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/api2.png)
 
 其他东西应该都可以在群里输指令完成配置
 
