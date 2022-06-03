@@ -53,7 +53,7 @@ pip install json
 
 
 ## 使用说明
-初次使用请在Config/config.json里手动填入superuser（你的qq号）、apikey（就是root账号生成的API密钥（控制面板->个人信息->生成API密钥））、url（你的mcsmanager服务器地址）
+初次使用请在config/config.json里手动填入superuser（你的qq号）、apikey（就是root账号生成的API密钥（控制面板->个人信息->生成API密钥））、url（你的mcsmanager服务器地址）
 
 - 至于怎么生成apikey：
 
