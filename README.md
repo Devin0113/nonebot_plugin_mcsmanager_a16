@@ -59,8 +59,19 @@ pip install json
 
 （话说README该怎么添加图片来着，是引用库的图片吗，想加一条测试的截图）
 
-![Image text](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/01help.jpg)
-![Imange discription](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/01help.jpg)
+![mchelp](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/01help.jpg)
+
+![mcsay](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/02say.jpg)
+
+![mccmd](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/03cmd.jpg)
+
+![mcmsg](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/04msg.jpg)
+
+![mcs](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/05s.jpg)
+
+![mcbind](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/06bind.jpg)
+
+![mcsu](https://github.com/Devin0113/nonebot_plugin_mcsmanager_a16/blob/main/img/07su.jpg)
 
 ## 相关仓库
 - [NoneBot2](https://github.com/nonebot/nonebot2)
