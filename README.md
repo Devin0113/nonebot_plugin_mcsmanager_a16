@@ -3,7 +3,7 @@ A nonebot2 a16 plugin for mc server based on mcsmanager.
 
 一个适用于基于mcsmanager的mc服务器的Nonebot2插件，适配nonebot2 a16
 
-是的，如果你也使用的是下面的版本那么肯定没有问题（心虚）：
+是的，如果你也使用的是下面的版本那么肯定没有问题：
 
 - NoneBot2 a16
 - MCSManager 9.4.4
@@ -30,7 +30,7 @@ A nonebot2 a16 plugin for mc server based on mcsmanager.
 
 > 写完README又手痒去搜索了一下，原来其实还是有大佬写了，只是当初我眼瞎没看到（）
 
-> 挖，原来还能给自己点star（）
+> 原来还能给自己点star（）
 
 
 ## 安装
@@ -64,8 +64,6 @@ pip install json
 其他东西应该都可以在群里输指令完成配置
 
 在群聊中输入“mchelp”来获取指令列表
-
-（话说README该怎么添加图片来着，是引用库的图片吗，想加一条测试的截图）
 
 - 获取指令列表：
 
