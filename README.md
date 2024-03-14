@@ -18,19 +18,13 @@ A nonebot2 a16 plugin for mc server based on mcsmanager.
 
 ## 背景
 
-也许是背景？这是我的第一个github项目，写的很烂（）
+（也许是背景？）这是我的第一个github项目，也许写的很烂
 
-因为没学过编程更没学过py，这个README也是对着某个标准现学的（我甚至还不知道提交以后这个README会有多难看...）
-
-代码真的很烂，能跑就行.jpg
+这个README也是对着某个标准现学的
 
 因为没发现有人写这个插件，查了一下mcsmanager的文档发现只要简单的调用一下api就可以实现很多功能，于是就写了这样一个插件
 
-不过真的会有人用吗，要不我还是继续用a16摆烂，不继续适配nonebot2beta版了（）
-
-> 写完README又手痒去搜索了一下，原来其实还是有大佬写了，只是当初我眼瞎没看到（）
-
-> 原来还能给自己点star（）
+准备继续用a16，所以不继续适配nonebot2beta版了
 
 
 ## 安装
@@ -49,7 +43,7 @@ pip install json
 其次是这个插件还需要nonebot的[APScheduler定时任务插件](https://github.com/nonebot/plugin-apscheduler)
 
 
-最后只要把nonebot_plugin_mcsmanager_a16塞到bot的plugins文件夹里就可以啦（我究竟在干什么）
+最后只要把nonebot_plugin_mcsmanager_a16塞到bot的plugins文件夹里就可以了
 
 
 ## 使用说明
